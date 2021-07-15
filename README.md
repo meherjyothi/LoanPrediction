@@ -1,4 +1,5 @@
-The aim of this project is to  provide quick, immediate and easy way to choose the deserving loan applicants.
+The aim of this project is to  provide quick, immediate and easy way to choose the deserving loan applicants,
+using machine learning and deep learning techniques.
 The investigated techniques were Logistic Regression, Random Forest, Decision Tree, KNN, AdaBoost, XG Boost, 
 Gradient Boost, Support Vector Classification, Naïve Bayes, and Multi-Layer-Perceptron (DNN).
 
